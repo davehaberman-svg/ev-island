@@ -21,7 +21,7 @@ Key background:
 - The **Snaw-Naw-As (Nanoose) First Nation** won a BC Court of Appeal case in 2023 returning their corridor segment — establishing a landmark legal precedent for First Nations reversion.
 - **Thomas Bevan** is the CEO of the Island Corridor Foundation.
 - Dave's target: establish a **"Temporary ICF"** by **July 31, 2026**.
-- The corridor intersects **14 First Nations territories** and spans 225 km from Victoria to Courtenay across 4 Regional Districts.
+- The corridor intersects **14 First Nations territories** and spans 289 km from Victoria to Courtenay across 4 Regional Districts.
 
 ---
 
@@ -159,7 +159,7 @@ At the start of each session, tell Claude: *"Read my ICF context file"* — Clau
 - **Next steps:** Ensure Chief Thomas receives and reviews the Discussion Paper; more research needed before meaningful follow-up with Thomas Bevan and Beninger
 
 ### 2026-05-26 — FNMPC identified as strategic resource; scale of corridor noted
-- Full corridor: 225 km, Victoria to Courtenay, 4 Regional Districts, 14 First Nations territories
+- Full corridor: 289 km, Victoria to Courtenay, 4 Regional Districts, 14 First Nations territories
 - FNMPC: 144-member national non-profit. Malahat First Nation and Songhees Development Corp are Vancouver Island members. Has active "Confidential Linear Asset Acquisition" project in BC.
 - Key insight: Dave can't approach FNMPC directly — introduce via Chief Thomas
 - **Next steps:** Raise FNMPC with Chief Thomas; explore Malahat/Songhees connection
@@ -258,9 +258,57 @@ At the start of each session, tell Claude: *"Read my ICF context file"* — Clau
 ### 2026-06-05 (continued) — index.html content updates
 - Hero headline: added line break before "roadway system"
 - "Opens Development Land" → "Developable Lands"; copy rewritten
-- "225 km Corridor" card: copy rewritten — "defunct E&N railway", ridership/cost argument added
+- "289 km Corridor" card: copy rewritten — "defunct E&N railway", ridership/cost argument added
 - "14 First Nations" card: copy rewritten — returning land, reconciliation, Nations pursue on own terms
 - "Federal Funding Ready" card: sentence updated — "one section of rail" added
 - "Billions in Development" card: copy rewritten — "thousands of jobs" added
 - Halalt pilot paragraph: updated to include FORT-VI and "any First Nation or Municipality can replicate"
 - **Files to upload:** `index.html`, `about.html`, `corridor.html`, `first-nations.html`, `news.html`, `ev-island-logo.png`, `del-webb-time.png`, `byd-shark.png`, `nev-collage.jpg`, `ev-expo-banner.png`, `dynasty-car.png`, `fcm-logo.png`, `ee-show-pic1.png`
+
+### 2026-06-07 — Website content updates and evisland.ca domain connected to GitHub
+
+**index.html**
+- "Developable Lands" card: copy rewritten twice — final: "unlocks billions in adjacent land...long held back by noisy, polluting train service"
+- "289 km Corridor" card: rail reinstatement sentence rewritten — "Reinstating rail service would be prohibitively expensive..."
+- Halalt pilot paragraph: fully rewritten — references traditional territory, goal of creating a template for other First Nations and municipalities
+- Colwood NEV truck photo (`Colwood NEV.png`) added below corridor map image
+
+**corridor.html**
+- All "225 km" references updated to "289 km" (4 instances)
+- NZEV Solution paragraph rewritten — "segments of the corridor would be converted into NZEV roadways..."
+- "What Gets Built" paragraph: rewritten — "Public or private access will allow a billion dollars in development..."
+- Deleted paragraph about highway-grade construction
+- Commercial Spaces list item: "reserve stores" → "stores"
+- Legal Framework card: deleted "making First Nations-led pilots directly achievable"
+- Island Corridor Foundation card: emoji replaced with ICF Logo.png; "planning" removed from "planning grants"
+- District of North Cowichan card: emoji replaced with DNC Logo.png; second sentence rewritten — "The Chemainus corridor section is another excellent option for a pilot"
+- FCM card: copy rewritten — "The FCM could become a key partner in the pilot..."
+- Community Energy Association card: emoji replaced with Community Energy Association.png
+- Green IPO card: copy replaced — "A government-backed clean energy project of this scale represents a significant IPO opportunity"
+
+**about.html**
+- EV Island Mandate card deleted
+
+**New image files added:** `Colwood NEV.png`, `ICF Logo.png`, `DNC Logo.png`, `Community Energy Association.png`
+
+**evisland.ca domain connected to GitHub Pages**
+- GitHub Pages custom domain set to `evisland.ca`
+- Wix DNS updated: 4 GitHub A records added; www CNAME changed from cdn1.wixdns.net to davehaberman-svg.github.io
+- DNS propagation in progress (up to 48 hours)
+- **Next steps:** Confirm evisland.ca is live and loading GitHub site; upload all changed files to GitHub
+
+### 2026-06-07 (continued) — contact.html and news.html updates
+
+**contact.html**
+- Website field: changed from ev-island.com to evisland.ca
+- All 6 pages: footer updated from ev-island.com → evisland.ca
+- First Nations item: rewritten — "Reservations bisected by the E&N corridor that wish to learn more about the proposed pilot"
+- Government: "Partners" removed from heading; copy rewritten — "interested in moving this project forward"
+- Organizations: copy rewritten — "Universities, NGOs, and Indigenous organizations committed to accelerating Canada's transition to a carbon-free economy"
+- Media: copy rewritten — global spotlight, journalists/videographers/social media creators from around the world
+- Send Message note: rewritten — "Alternatively, email me directly at dave.haberman@gmail.com"
+
+**news.html**
+- Hero subtext: "Dispatches from EV Island and the E&N corridor initiative" → "Dispatches from EV Island"
+
+- **Files to upload:** `contact.html`, `news.html`, `index.html`, `about.html`, `corridor.html`, `first-nations.html`
