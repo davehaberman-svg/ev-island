@@ -312,3 +312,45 @@ At the start of each session, tell Claude: *"Read my ICF context file"* — Clau
 - Hero subtext: "Dispatches from EV Island and the E&N corridor initiative" → "Dispatches from EV Island"
 
 - **Files to upload:** `contact.html`, `news.html`, `index.html`, `about.html`, `corridor.html`, `first-nations.html`
+
+### 2026-06-08 — Content updates across multiple pages
+
+**index.html**
+- Mandate text: added `<br>` after "Corridor" to split into two even lines
+
+**about.html**
+- "Where This Started" paragraph: rewritten — September 24th, 2017 drive with mechanic, ICBC coverage, grandfathered NZEV provision, legislation waiting for political will; "Dave Haberman" added as signature
+- "Imagine transforming..." paragraph: deleted
+- Bio paragraph: "strata" removed from "seniors housing strata projects"
+- EE Expo paragraph: names added at bottom — "Dave Haberman, Dave Bodig, Darren Anderson" (italics)
+- Dynasty Electric Car card: copy rewritten — road-legal LSV in 47 US states/BC/Quebec, 120V outlet, 2 pennies/km, 50 km range
+- BYD Shark card: "Dave Haberman" added as signature
+- Pickman1.jpg photo added below EE Expo content (white NEV/Pickman vehicle with Dave)
+
+**corridor.html**
+- Green IPO card: green-lsv.jpg photo added below card (green LSV with Dave)
+
+**first-nations.html**
+- Halalt First Nation Pilot card: emoji replaced with Halalt Logo.jpg; "active" removed from "active conversation"
+- Snaw-Naw-As paragraph: rewritten — EV Island model for reconciliation without courts, money saved from avoiding court battles
+- "developed in collaboration" → "under development, in collaboration"
+
+**New image files added:** `green-lsv.jpg`, `pickman1.jpg`, `Halalt Logo.jpg`
+
+- **Files to upload:** `index.html`, `about.html`, `corridor.html`, `first-nations.html`, `green-lsv.jpg`, `pickman1.jpg`, `Halalt Logo.jpg`
+
+### 2026-06-08 (continued) — Tone, mandate, and newsletter
+
+**index.html**
+- Mandate updated to final version: "We work at the intersection of clean energy and First Nations reconciliation — transforming the E&N Railway Corridor into a Neighbourhood Zero Emission Vehicle roadway system." (trailing phrase cut; "First Nation" → "First Nations")
+
+**Tone note — important:**
+EV Island is a **solution enterprise**. All communications should be constructive and forward-looking. We are not calling out the ICF, government, or any other party. Our position is that the corridor is a billion-dollar public asset deserving a fresh vision — and we're the ones offering it. Criticism is implicit in the facts; it doesn't need to be stated.
+
+**Newsletter drafted — website launch**
+- Polished launch newsletter written for both existing and new contacts
+- Tone: constructive, professional, personal — same as other EV Island newsletters
+- Call to action: visit evisland.ca
+- Key message: EV Island offers a practical, low-cost plan to bring the corridor back to life
+
+- **Next steps:** Finalize and send launch newsletter; upload all changed files to GitHub; confirm evisland.ca is live
