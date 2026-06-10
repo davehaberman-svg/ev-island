@@ -392,3 +392,17 @@ EV Island is a **solution enterprise**. All communications should be constructiv
 
 - **Files to upload to GitHub:** all 6 HTML files + all 7 new image files
 - **Next steps:** Write and send launch newsletter tomorrow; upload all files to GitHub; confirm evisland.ca fully live
+
+### 2026-06-10 — Mobile nav, about.html copy updates
+
+**style.css + all 6 HTML pages**
+- Hamburger menu added for mobile — three-line button appears on screens under 680px; tapping opens/closes full nav dropdown
+
+**about.html**
+- Bio paragraph: "and almost no qualifying cars existed at the time" → "but few affordable qualifying cars existed back then, so the Act was rarely used"
+- "Where This Started" paragraph: added "to apply it" to end of final sentence
+- Bio paragraph: added "and more" to end of sentence about home technology
+- Chemainus card: copy rewritten — "I'm based at 8662 Trans-Canada Highway on the Chemainus River, in the heart of the Cowichan Valley, an area famous for its organic farmland"
+- EE Expo paragraph: rewritten — "We ran a rail corridor information campaign gathering information from the public. Every single person we spoke to knew of the old E&N railway line, but not one of them believed it would ever run again."
+
+- **Files to upload:** all 6 HTML files + `style.css`
