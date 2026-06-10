@@ -14,7 +14,10 @@
     <a class="logo" href="index.html">
       <img src="ev-island-logo.png" alt="EV Island" height="52">
     </a>
-    <nav>
+    <button class="hamburger" id="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="nav">
       <a href="index.html">Home</a>
       <a href="corridor.html">The Corridor</a>
       <a href="first-nations.html">First Nations</a>
@@ -24,6 +27,11 @@
     </nav>
   </div>
 </header>
+<script>
+  document.getElementById('hamburger').addEventListener('click', function() {
+    document.getElementById('nav').classList.toggle('open');
+  });
+</script>
 
 <div class="page-hero">
   <div class="page-hero-inner">
@@ -38,8 +46,8 @@
     <div class="two-col">
       <div class="prose">
         <h2>Where This Started</h2>
-        <p>In 2006, while my company was building a seniors housing development in Chemainus on Vancouver Island, I noticed a few of our residents were quietly driving their golf carts between Stone Gate Estates and Mount Brenton Golf Course. Technically, they shouldn't have been — but BC had Low Speed Vehicle legislation on the books, and almost no qualifying cars existed at the time.</p>
-        <p>That moment planted the seed. On September 24th, 2017, my mechanic &amp; I drove the same route in a vintage Dynasty electric car — fully legal with ICBC coverage under a grandfathered NZEV provision. It proved that clean, low-speed electric transportation was already available for BC roads. The legislation was already in place — it was just waiting for the political will.<br><br><strong>Dave Haberman</strong></p>
+        <p>In 2006, while my company was building a seniors housing development in Chemainus on Vancouver Island, I noticed a few of our residents were quietly driving their golf carts between Stone Gate Estates and Mount Brenton Golf Course. Technically, they shouldn't have been — but BC had Low Speed Vehicle legislation on the books, but few affordable qualifying cars existed back then, so the Act was rarely used.</p>
+        <p>That moment planted the seed. On September 24th, 2017, my mechanic &amp; I drove the same route in a vintage Dynasty electric car — fully legal with ICBC coverage under a grandfathered NZEV provision. It proved that clean, low-speed electric transportation was already available for BC roads. The legislation was already in place — it was just waiting for the political will to apply it.<br><br><strong>Dave Haberman</strong></p>
 
         <h2>Sun City, AZ</h2>
         <div style="display:flex; gap:24px; align-items:flex-start; margin:16px 0;">
@@ -48,9 +56,9 @@
         </div>
 
         <h2>Bio</h2>
-        <p>I'm a retired land developer with experience in building seniors housing projects. My Chemainus home is a custom factory built modular, from 2020, featuring solar roof panels, Level 2 EV charging and V2H (vehicle to home) technology.</p>
+        <p>I'm a retired land developer with experience in building seniors housing projects. My Chemainus home is a custom factory built modular, from 2020, featuring solar roof panels, Level 2 EV charging and V2H (vehicle to home) technology, and more.</p>
         <div style="display:flex; gap:24px; align-items:flex-start; margin:16px 0;">
-          <p style="margin:0;">September 2025, our team set up a booth at the <strong>Everything Electric Expo</strong> in Vancouver — Canada's largest clean energy event. We ran a rail corridor information campaign and came home with a direct connection to the office of Minister Adrian Dix, Minister of Energy &amp; Climate Solutions.<br><br><em>Dave Haberman, Dave Bodig, Darren Anderson</em></p>
+          <p style="margin:0;">September 2025, our team set up a booth at the <strong>Everything Electric Expo</strong> in Vancouver — Canada's largest clean energy event. We ran a rail corridor information campaign gathering information from the public. Every single person we spoke to knew of the old E&amp;N railway line, but not one of them believed it would ever run again.<br><br><em>Dave Haberman, Dave Bodig, Darren Anderson</em></p>
           <img src="ee-show-pic1.png" alt="EV Island booth at Everything Electric Expo 2025" style="width:220px; flex-shrink:0; border-radius:6px;">
         </div>
         <img src="pickman1.jpg" alt="" style="width:100%; border-radius:8px; margin-top:1.5rem;">
@@ -61,7 +69,7 @@
         <div class="card" style="margin-bottom:1.5rem;">
           <img src="ev-expo-banner.png" alt="Everything Electric Expo, Vancouver 2025" style="width:100%; border-radius:6px; margin-bottom:1rem;">
           <h3>Chemainus, BC</h3>
-          <p>Based at 8662 Trans-Canada Highway, Chemainus, BC — on Vancouver Island, in the heart of the corridor.</p>
+          <p>I'm based at 8662 Trans-Canada Highway on the Chemainus River, in the heart of the Cowichan Valley, an area famous for its organic farmland.</p>
         </div>
 
         <div class="card" style="margin-bottom:1.5rem;">

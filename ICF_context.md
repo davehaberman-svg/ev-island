@@ -354,3 +354,41 @@ EV Island is a **solution enterprise**. All communications should be constructiv
 - Key message: EV Island offers a practical, low-cost plan to bring the corridor back to life
 
 - **Next steps:** Finalize and send launch newsletter; upload all changed files to GitHub; confirm evisland.ca is live
+
+### 2026-06-09 — Content updates and Mailchimp connected
+
+**index.html**
+- Mandate finalized: "We work at the intersection of clean energy and First Nations reconciliation — transforming the E&N Railway Corridor into a Neighbourhood Zero Emission Vehicle roadway system."
+
+**about.html**
+- BYD Shark card: copy rewritten — follow-up sourcing trip to identify/secure qualifying NZEVs for pilot; "Dave Haberman" signature retained
+- "Where This Started" paragraph: rewritten with September 24th, 2017 drive, ICBC coverage, grandfathered NZEV provision, legislation waiting for political will; "Dave Haberman" signature added
+- "Imagine transforming..." paragraph deleted
+- Bio: "strata" removed
+- EE Expo: team names added in italics — Dave Haberman, Dave Bodig, Darren Anderson
+- Dynasty card: copy rewritten — road-legal LSV, 47 US states/BC/Quebec, 2 pennies/km, 50 km range
+- Pickman1.jpg added below EE Expo content
+
+**corridor.html**
+- green-lsv.jpg added below Green IPO card
+
+**first-nations.html**
+- Halalt Pilot card: emoji → Halalt Logo.jpg; "active" removed
+- Snaw-Naw-As paragraph: rewritten — reconciliation without courts, money saved from avoiding court battles
+- "developed" → "under development,"
+
+**news.html**
+- Mailchimp signup form connected: https://evisland.us14.list-manage.com/subscribe/post?u=298a9ade7a798687188ab2830&id=15f8b1bb4b
+- Subscribers now go directly into Mailchimp audience (129 contacts, 9 subscribers)
+
+**contact.html**
+- Various copy updates (see June 7 entry)
+
+**Newsletter — website launch (drafted, not yet sent)**
+- Polished version ready; constructive tone — EV Island as solution enterprise
+- To be sent via Mailchimp tomorrow along with first proper newsletter
+
+**New image files added:** `green-lsv.jpg`, `pickman1.jpg`, `Halalt Logo.jpg`, `Colwood NEV.png`, `ICF Logo.png`, `DNC Logo.png`, `Community Energy Association.png`
+
+- **Files to upload to GitHub:** all 6 HTML files + all 7 new image files
+- **Next steps:** Write and send launch newsletter tomorrow; upload all files to GitHub; confirm evisland.ca fully live
